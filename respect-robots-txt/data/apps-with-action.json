@@ -1,0 +1,1362 @@
+[
+    {
+        "test_page": "https://chatgpt.com/g/g-2DQzU5UZl-codecopilot",
+        "gpt_name": "Code Copilot",
+        "time": "2024-09-02 15:44:44",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 1
+    },
+    {
+        "test_page": "https://bit.ly/47LNSIV",
+        "gpt_name": "Scholar GPT",
+        "time": "2024-09-02 15:49:59",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 2
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-0S5FXLyFN-wolfram",
+        "gpt_name": "Wolfram",
+        "time": "2024-09-02 16:36:22",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 3
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-szDdJUX9V-finance-gpt",
+        "gpt_name": "Finance Wizard",
+        "time": "2024-09-02 17:59:17",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 4
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-GvcYCKPIH-video-summary-ai",
+        "gpt_name": "Video Summarizer",
+        "time": "2024-09-02 18:13:15",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 5
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-2Eo3NxuS7-designergpt",
+        "gpt_name": "DesignerGPT",
+        "time": "2024-09-26 16:41:39",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 6
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-g24EzkDta-voxscript",
+        "gpt_name": "Voxscript",
+        "time": "2024-09-02 19:22:41",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 7
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-E7eSRUHy6-travel-guide",
+        "gpt_name": "Travel Guide",
+        "time": "2024-09-02 20:36:33",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 8
+    },
+    {
+        "test_page": "https://bit.ly/48YNE1Y",
+        "gpt_name": "Browser Pro",
+        "time": "2024-09-02 20:41:48",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 9
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-CPgdui5Ib-midjourneyno",
+        "gpt_name": "Generator Text to Video Maker",
+        "time": "2024-09-26 18:56:38",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 10
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-Hdq2AC858-link-reader",
+        "gpt_name": "Link Reader",
+        "time": "2024-09-02 22:08:40",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 11
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-TgjKDuQwZ-r-wizard",
+        "gpt_name": "R Wizard",
+        "time": "2024-09-26 20:50:30",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 12
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-kXxAXdu9r-human-writer-pro-humanizer-human-gpt",
+        "gpt_name": "Human WriterHumanizerParaphraserHuman Asst",
+        "time": "2024-09-02 22:45:49",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 13
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-7C0wg9CMN-book-creator-guide",
+        "gpt_name": "Book Creator Guide",
+        "time": "2024-09-02 23:08:31",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 14
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-rsuRKk1MX-pdf-insight",
+        "gpt_name": "PDF Insight",
+        "time": "2024-09-02 23:40:25",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 15
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-GrshPDvS3-seo",
+        "gpt_name": "SEO",
+        "time": "2024-09-03 00:17:58",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 16
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-vd364I1Zi-mid-journey-v6-prompt-creator",
+        "gpt_name": "Mid Journey V6 Prompt Creator",
+        "time": "2024-09-26 22:59:50",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 17
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-wmxtM9sVs-finance",
+        "gpt_name": "Finance  Trading Stock Crypto Forex Investing",
+        "time": "2024-09-03 01:23:03",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 18
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-rLwPjHrHR-domain-website-fully-working-page-free",
+        "gpt_name": "Website Instantly Multipage",
+        "time": "2024-09-27 00:46:26",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 19
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-I1XNbsyDK-api-docs",
+        "gpt_name": "API Docs",
+        "time": "2024-09-03 04:50:05",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 20
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-870r1buu6-scraper",
+        "gpt_name": "Scraper",
+        "time": "2024-09-03 04:55:20",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 21
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-CqSxj3cSa-seo-bloggpt",
+        "gpt_name": "SEO BlogGPT  100 SEO Optimized Blog Writer",
+        "time": "2024-09-03 06:48:36",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 22
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-apTaTPT9v-ai-geurim-geurigi-imiji-bogweon-tonghab-pyeonjib-seutail-byeongyeong",
+        "gpt_name": "AI            ",
+        "time": "2024-09-03 08:24:17",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 23
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-Dfo2YQk0Y-noyoutube",
+        "gpt_name": "YouTube Video Summarizer",
+        "time": "2024-09-03 10:20:27",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 24
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-Zo3fmsCJP-social-media-manager-content-creator-generator-ai",
+        "gpt_name": "Social Media ManagerContent Creator GeneratorAI",
+        "time": "2024-09-03 13:40:11",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 25
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-KNstzCSHA-webpilot",
+        "gpt_name": "WebPilot",
+        "time": "2024-09-27 11:17:26",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 26
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-TA4k9P4Qw-professional-coder-auto-programming-improved",
+        "gpt_name": "Professional Coder Auto programming  Improved",
+        "time": "2024-09-27 13:26:44",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 27
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-XxQgZLxX9-consistent-image-generator",
+        "gpt_name": "Consistent Image Generator",
+        "time": "2024-09-03 16:44:03",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 28
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-n5En7TcoK-the-stata-gpt",
+        "gpt_name": "The Stata GPT",
+        "time": "2024-09-27 15:12:22",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 29
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-R6cdCJuQL-chao-ji-lun-wen-fu-zhu-super-academic-paper-assistance",
+        "gpt_name": "Super Academic Paper Assistance",
+        "time": "2024-09-03 22:32:40",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 30
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-Lojyl6VuC-mixerbox-websearchg",
+        "gpt_name": "WebG by MixerBox WebSearchG AI GPT",
+        "time": "2024-09-03 23:00:26",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 31
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-ZMY0isxnu-chat-with-website",
+        "gpt_name": "Chat with Website",
+        "time": "2024-09-03 23:59:26",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 32
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-9MFRcOPwQ-webgpt",
+        "gpt_name": "WebGPT",
+        "time": "2024-09-04 01:40:51",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 33
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-YgkKaPZNm-academic-research-reviewer",
+        "gpt_name": "Academic Research Reviewer",
+        "time": "2024-09-04 06:08:48",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 34
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-4h9g9N0si-finance",
+        "gpt_name": "Finance",
+        "time": "2024-09-04 06:43:53",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 35
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-9tUvwy2fi-3d-gpt",
+        "gpt_name": "3D Modeler",
+        "time": "2024-09-28 03:51:20",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 36
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-WntJvzThh-seo",
+        "gpt_name": "SEO",
+        "time": "2024-09-28 05:13:52",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 37
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-f27zOJipg-ta-luo-shi",
+        "gpt_name": "Smarter GPT",
+        "time": "2024-09-04 11:50:26",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 38
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-87zN9yfMy-duan-shi-pin-jiao-ben",
+        "gpt_name": "Short Video Creation",
+        "time": "2024-09-04 15:41:04",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 39
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-q6mQJ4qYz-classic-chatgpt-google",
+        "gpt_name": " Classic Chat  Advanced Web Search",
+        "time": "2024-09-04 22:51:16",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 40
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-veMpTb39A-travel-planner",
+        "gpt_name": "Global Travel Planner",
+        "time": "2024-09-06 14:41:15",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 41
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-GJttZk3QA-gpt-finder",
+        "gpt_name": "GPT Finder",
+        "time": "2024-09-06 17:12:35",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 42
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-nleealfRT-shopping-assistant",
+        "gpt_name": "Shopping GPT",
+        "time": "2024-09-06 20:43:35",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 43
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-eLEBPLViN-ui-gpt",
+        "gpt_name": "AppGPT",
+        "time": "2024-09-29 01:58:41",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 44
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-M3nHnGwvI-summarize-wise",
+        "gpt_name": "Summarize Wise",
+        "time": "2024-09-07 02:14:30",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 45
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-mFlXYAq62-noyoutube-summarizer",
+        "gpt_name": "YouTube Summarizer  Summarize PDFSummarize Web",
+        "time": "2024-09-07 07:45:27",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 46
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-fjnI5Cr8i-yutyubeu-yoyag-wang-3jul-yoyag-jaesaengseong-syoceu-gisa-beulrogeu",
+        "gpt_name": "    3        ",
+        "time": "2024-09-29 14:36:00",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 47
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-Iz6TghxNT-seomator-keyword-research-serp-analyzer-gpt",
+        "gpt_name": "Free SEO Keyword Research  SERP Analyzer GPT",
+        "time": "2024-09-29 16:54:05",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 48
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-tveXvXU5g-gpt-finance",
+        "gpt_name": "Quant Finance",
+        "time": "2024-09-07 17:22:01",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 49
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-AKglizNZ7-your-pastor-gpt",
+        "gpt_name": "Summarize Everything Youtube  PDF  Web",
+        "time": "2024-09-07 17:31:39",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 50
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-oMM2c1bD3-chat-pdf",
+        "gpt_name": "PDF AI Reader Chat 41 ",
+        "time": "2024-09-29 19:03:22",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 51
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-Gv8NBj862-mindmap-master",
+        "gpt_name": "Mindmap Master I Diagrams Charts Planner ",
+        "time": "2024-09-29 20:12:55",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 52
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-VdKkD1Myt-limitless-ai",
+        "gpt_name": " Confident Limitless Artificial Intelligence",
+        "time": "2024-09-07 22:14:27",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 53
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-2SIKCFdeL-faq-generator-ai",
+        "gpt_name": "FAQ Generator Ai",
+        "time": "2024-10-01 17:16:54",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 54
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-SXDND883j-seo-blog-writer-pro",
+        "gpt_name": "SEO  Blog Writer Pro",
+        "time": "2024-10-01 19:11:59",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 55
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-zH26RMZYp-ppt-smart-slides-creator",
+        "gpt_name": "PPT Smart Slides Creator",
+        "time": "2024-10-01 19:43:34",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 56
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-jNQg2cLJz-video-finder",
+        "gpt_name": "Video Finder",
+        "time": "2024-09-08 14:57:43",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 57
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-3FBdkwCgr-ugc-buddy",
+        "gpt_name": "UGC Buddy",
+        "time": "2024-10-02 05:47:52",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 58
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-ckfOr8jPk-magical",
+        "gpt_name": "Scraper",
+        "time": "2024-09-08 23:41:35",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 59
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-zNMUYpnS9-seo-writing-assistants",
+        "gpt_name": " SEO  ",
+        "time": "2024-09-09 00:26:38",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 60
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-johA79Evz-free-trade-gpt-ai-signal-forex-crypto-stocks",
+        "gpt_name": "Free Trade GPT AI Signal Forex Crypto Stocks",
+        "time": "2024-10-02 11:30:45",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 61
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-lUygohS2m-content-rewriter",
+        "gpt_name": "Content Rewriter",
+        "time": "2024-09-09 05:02:18",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 62
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-GfxY7ij4h-wang-ye-shu-ju-fen-xi-gpt",
+        "gpt_name": "GPT",
+        "time": "2024-09-09 10:05:22",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 63
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-eMcl90K0o-free-ai-voice-generator-online",
+        "gpt_name": "FREE AI VOICE GENERATOR ONLINE",
+        "time": "2024-09-09 11:43:05",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 64
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-fhWHWw3rc-superdomain",
+        "gpt_name": "Domain Generation  Domain Availability",
+        "time": "2024-10-03 00:06:25",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 65
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-2PTVw5ngS-scholaredge-nonmun-bunseog",
+        "gpt_name": "ScholarEdge  ",
+        "time": "2024-10-05 17:12:17",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 66
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-gmpxRoKBb-t",
+        "gpt_name": "t",
+        "time": "2024-10-05 17:51:06",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 67
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-q3Hxst4H5-ad-copy-creator-from-url",
+        "gpt_name": "Ad Copy Creator from URL",
+        "time": "2024-09-09 20:39:35",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 68
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-wHCASvZft-chatdoc",
+        "gpt_name": "ChatDOC",
+        "time": "2024-09-09 20:49:13",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 69
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-l24jWz5vV-human-anatomy-and-physiology-educator",
+        "gpt_name": "Human Anatomy  Physiology Instruction Specialist",
+        "time": "2024-10-05 19:21:39",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 70
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-MD9ZplW7q-midjourney",
+        "gpt_name": "Topjourney",
+        "time": "2024-10-05 21:14:55",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 71
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-fXNcH1d6l-duan-shi-pin-fen-xi-shi-video-analyst",
+        "gpt_name": " Video Analyst",
+        "time": "2024-09-10 01:11:16",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 72
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-8WE6aE1wy-yong-aizhuan-qian",
+        "gpt_name": "AI",
+        "time": "2024-10-05 23:39:18",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 73
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-OLg4Okksf-syllabus-creator-pro",
+        "gpt_name": "Syllabus Creator Pro",
+        "time": "2024-09-14 22:38:59",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 74
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-Ek3fdlDdA-cloner",
+        "gpt_name": "Cloner",
+        "time": "2024-09-15 06:54:48",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 75
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-IzCgfunm8-webscraper",
+        "gpt_name": "WebScraper",
+        "time": "2024-09-15 07:50:13",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 76
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-iBAJzHXD2-linux-kernel-expert",
+        "gpt_name": "Linux Kernel Expert",
+        "time": "2024-09-15 13:25:20",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 77
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-8F2kleXyZ-presentation-pro",
+        "gpt_name": "Presentation PRO ",
+        "time": "2024-09-15 18:27:48",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 78
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-dseoV9glN-web-crawler-guru",
+        "gpt_name": "Web Crawler Guru",
+        "time": "2024-09-16 00:21:21",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 79
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-mps74mqxo-dns-lookup-and-expert",
+        "gpt_name": "DNS Lookup and Expert",
+        "time": "2024-10-07 06:08:44",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 80
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-0XpYXF4Kg-finance-consultant",
+        "gpt_name": "Finance Consultant",
+        "time": "2024-09-16 07:26:55",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 81
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-uAZ8pbt8N-reportedge-repoteu-jagseong",
+        "gpt_name": "ReportEdge  ",
+        "time": "2024-09-16 11:53:34",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 82
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-VsdftvU6E-agu-mei-ri-zi-xun-fen-xi",
+        "gpt_name": "A",
+        "time": "2024-09-16 16:05:46",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 83
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-sNVZT6oAU-website-audit-ux-ui-content-by-flowpoint-ai",
+        "gpt_name": "Website Audit",
+        "time": "2024-09-17 02:25:36",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 84
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-ynZYhDGwd-paperpilot",
+        "gpt_name": "PaperPilot",
+        "time": "2024-09-17 08:27:58",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 85
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-a3N9FUZLN-gpt-action-builder",
+        "gpt_name": "GPT Action Builder",
+        "time": "2024-09-17 11:50:21",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 86
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-MoJ3qKFHx-promoai-video-gpt-generator",
+        "gpt_name": "PromoAI  Video GPT Generator",
+        "time": "2024-09-17 22:36:45",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 87
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-Epdq38CLh-typo3-gpt",
+        "gpt_name": "TYPO3 Dev Assist by in2code",
+        "time": "2024-10-09 10:52:20",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 88
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-SKdgK3Apk-ai-user-persona",
+        "gpt_name": "User Persona Generator",
+        "time": "2024-09-18 15:20:32",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 89
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-zE9sGeFTy-read-paper",
+        "gpt_name": "Read Paper",
+        "time": "2024-09-18 18:01:23",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 90
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-rJ8laM2qH-copywriter",
+        "gpt_name": "Copywriter",
+        "time": "2024-09-18 20:19:29",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 91
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-1cGC8jcgz-quan-neng-chan-pin-da-shi-all-powerful-product-master",
+        "gpt_name": " AllPowerful Product Master",
+        "time": "2024-09-18 20:28:20",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 92
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-W9ZdOUgqC-b2b-data-tomba",
+        "gpt_name": "Email Finder  Tomba",
+        "time": "2024-10-10 09:18:20",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 93
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-XIztIziSW-nutricheck",
+        "gpt_name": "NutriCheck",
+        "time": "2024-10-10 12:54:08",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 94
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-URU8tnZen-seo-expert",
+        "gpt_name": "SEO Expert",
+        "time": "2024-09-19 08:15:37",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 95
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-nU9eHhPrc-scraper",
+        "gpt_name": "Scraper",
+        "time": "2024-09-19 10:09:09",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 96
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-qCvM8jvP8-mindmapgpt",
+        "gpt_name": "Mindmap",
+        "time": "2024-09-19 12:50:51",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 97
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-7HunDTA0E-test-case-generator",
+        "gpt_name": "Test Case Generator",
+        "time": "2024-10-10 20:51:36",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 98
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-aTdwKcgsE-cityweatherart",
+        "gpt_name": "CityWeatherArt",
+        "time": "2024-09-19 21:15:39",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 99
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-C9Vn0SycL-web-performance-engineer",
+        "gpt_name": "Web Performance Engineer WPE",
+        "time": "2024-10-11 08:19:24",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 100
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-q201IJB7L-wordpress-code-wizard",
+        "gpt_name": "WordPress Code Wizard",
+        "time": "2024-09-20 02:32:18",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 101
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-BABVI3pKG-seo-bloggpt-kor",
+        "gpt_name": "SEO BlogGPT KOR  SEO  ",
+        "time": "2024-09-20 02:46:18",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 102
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-cymc6AS6f-mueosideun-geomsaeg-whateversearch",
+        "gpt_name": "   WhateverSEARCH",
+        "time": "2024-09-20 03:55:46",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 103
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-FJbohiuK0-crow",
+        "gpt_name": "Crow",
+        "time": "2024-09-20 08:26:57",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 104
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-vi9vc8QFB-betteractionsgpt",
+        "gpt_name": "BetterActionsGPT",
+        "time": "2024-09-20 10:16:38",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 105
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-t4EKN1K59-b2b-lead-generation-ai",
+        "gpt_name": "B2B Lead Generation AI",
+        "time": "2024-10-11 19:08:32",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 106
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-BAo0qPpm8-ai-news-roundup",
+        "gpt_name": "AI News Roundup",
+        "time": "2024-09-20 14:27:21",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 107
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-mAslRzFMo-aifo-zu",
+        "gpt_name": "Ai",
+        "time": "2024-09-20 14:41:20",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 108
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-4XdcH7JDh-auto-stock-analyst-expert",
+        "gpt_name": "Auto Stock Analyst Expert",
+        "time": "2024-09-20 17:00:33",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 109
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-QFDI8HNwU-nyuseu3julyoyag",
+        "gpt_name": " 3",
+        "time": "2024-09-20 17:18:53",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 110
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-L1phQtWis-trading-master",
+        "gpt_name": "Trading Master",
+        "time": "2024-09-20 18:23:59",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 111
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-PrqYxgepp-stripe-docs-assistant",
+        "gpt_name": "Stripe Docs Assistant",
+        "time": "2024-09-20 20:08:23",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 112
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-j6r5TmGrB-logo-creator",
+        "gpt_name": "Logo Creator",
+        "time": "2024-09-21 03:38:41",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 113
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-6TkcvFRHC-ads-audience-targeting-assistant",
+        "gpt_name": "Ads Audience Targeting from URL",
+        "time": "2024-09-21 19:45:02",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 114
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-kWTt7Dv9q-yuan-zhuo-hui-yi-ai-debate-copilot",
+        "gpt_name": "AI  Debate Copilot",
+        "time": "2024-09-21 21:58:47",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 115
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-sk24HLCXk-professor-synapse",
+        "gpt_name": "Professor Synapse",
+        "time": "2024-09-21 22:18:09",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 116
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-6VttR8Sfu-seo-keyword-research-tool",
+        "gpt_name": "SEO Keyword Research Tool",
+        "time": "2024-09-22 01:40:24",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 117
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-G9INzOvnq-psychoanalyst",
+        "gpt_name": "Psychoanalyst",
+        "time": "2024-10-13 04:45:48",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 118
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-EUaagpC5y-nonmunyoyag-mindmapsummarizer",
+        "gpt_name": "  MindmapSummarizer",
+        "time": "2024-09-22 03:07:35",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 119
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-XrwZyE9OZ-tl-dr",
+        "gpt_name": "TLDR",
+        "time": "2024-09-22 05:38:45",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 120
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-jfDEwfsrT-seo-gpt-by-writesonic",
+        "gpt_name": "SEO GPT by Writesonic",
+        "time": "2024-09-22 08:33:47",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 121
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-VpntOrQsh-forex-rates-free-version",
+        "gpt_name": "ForexGPT  Forex Rates   Free Version",
+        "time": "2024-09-22 20:52:54",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 122
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-kROg0f5Tg-thread-weaver",
+        "gpt_name": "Thread Weaver",
+        "time": "2024-10-13 23:02:22",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 123
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-59mWdU25F-rustchat",
+        "gpt_name": "RustChat",
+        "time": "2024-09-23 12:48:35",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 124
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-UkZT1NyDx-guang-gao-yun-yong-ai",
+        "gpt_name": " AI",
+        "time": "2024-09-23 14:57:53",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 125
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-IKzWVkZ5x-gapier-assistant",
+        "gpt_name": "Gapier Assistant",
+        "time": "2024-09-23 17:39:04",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 126
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-1MBORX70C-gpt-x-grokversion",
+        "gpt_name": "GrokVersion",
+        "time": "2024-09-23 18:11:24",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 127
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-UiLPuZ5ZZ-prototyper",
+        "gpt_name": "Prototyper",
+        "time": "2024-09-23 19:06:12",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 128
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-J75qypPUU-math-mentor",
+        "gpt_name": "Math Mentor",
+        "time": "2024-10-15 09:38:07",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 129
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-rE1SApzUX-samurai-ai-summary",
+        "gpt_name": "AI summary  Samurai",
+        "time": "2024-09-25 01:06:47",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 130
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-UCldLDsA9-kontentumaketeingu-ai",
+        "gpt_name": " AI",
+        "time": "2024-10-15 20:47:14",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 131
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-ih7IcpeVT-noter-ai",
+        "gpt_name": "Noter AI",
+        "time": "2024-09-25 12:26:38",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 132
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-tA2nq5Ppv-digital-marketing-strategist-pro",
+        "gpt_name": "Digital Marketing Strategist Pro",
+        "time": "2024-10-16 04:39:56",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 133
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-TJze30dnD-elite-scholar",
+        "gpt_name": "Scholar Elite",
+        "time": "2024-09-25 17:17:48",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 134
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-dHhWpWcCM-thinkbot-jadong-jageobsuhaeng",
+        "gpt_name": "Thinkbot  ",
+        "time": "2024-09-25 18:40:26",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 135
+    },
+    {
+        "test_page": "https://chatgpt.com/g/g-7EWovgPuJ-mindstream",
+        "gpt_name": "MindStream",
+        "time": "2024-09-25 23:37:37",
+        "step_1_is_loaded_page": true,
+        "step_2_is_prompt_sent": true,
+        "step_2_is_allowed_button_found": true,
+        "step_3_is_end_of_testing": true,
+        "rank_among_actionable_gpts": 136
+    }
+]

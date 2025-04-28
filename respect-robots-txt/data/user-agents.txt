@@ -1,0 +1,26 @@
+# List of agents studied in the paper and their types
+# AgentName,AgentType
+Amazonbot,AI-Search-Crawler
+AI2Bot,AI-Data-Crawler
+anthropic-ai,Undocumented-Crawler
+Applebot,AI-Search-Crawler
+Applebot-Extended,AI-Data-Crawler
+Bytespider,AI-Data-Crawler
+CCBot,AI-Data-Crawler
+ChatGPT-User,AI-Assistant-Crawler
+Claude-Web,Undocumented-Crawler
+ClaudeBot,AI-Data-Crawler
+cohere-ai,Undocumented-Crawler
+Diffbot,AI-Data-Crawler
+FacebookBot,AI-Data-Crawler
+Google-Extended,AI-Data-Crawler
+GPTBot,AI-Data-Crawler
+Kangaroo Bot,AI-Data-Crawler
+Meta-ExternalAgent,AI-Data-Crawler
+Meta-ExternalFetcher,AI-Assistant-Crawler
+OAI-SearchBot,AI-Search-Crawler
+omgili,AI-Data-Crawler
+PerplexityBot,AI-Search-Crawler
+Timpibot,AI-Data-Crawler
+Webzio-Extended,AI-Data-Crawler
+YouBot,AI-Search-Crawler
