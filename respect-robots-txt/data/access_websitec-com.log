@@ -4136,5 +4136,6 @@
 195.178.110.38 - - [02/Nov/2024:23:29:16 -0700] "GET / HTTP/1.0" 400 622 "-" "-"
 213.32.122.82 - - [02/Nov/2024:23:38:26 -0700] "GET / HTTP/1.1" 200 12764 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36"
 162.216.149.214 - - [02/Nov/2024:23:42:07 -0700] "GET / HTTP/1.1" 200 7860 "-" "Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com"
+137.110.77.152 - - [06/May/2025:11:26:17 -0700] "GET /assets/img/favicon-dark.png HTTP/1.1" 200 2680 "https://advertcv.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:138.0) Gecko/20100101 Firefox/138.0"
 34.193.163.52 - - [06/May/2025:11:26:21 -0700] "GET / HTTP/1.1" 200 9496 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user)"
 34.193.163.52 - - [06/May/2025:11:26:21 -0700] "GET / HTTP/1.1" 200 9496 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user)"
